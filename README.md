@@ -8,7 +8,7 @@
 
 An interactive **Power BI** HR Analytics dashboard that transforms raw human resources data into actionable workforce insights, enabling HR teams and decision-makers to monitor employee trends, understand attrition drivers, and make data-driven retention decisions.
 
-![HR Analytics Dashboard Preview](images/dashboard.png)
+![HR Analytics Dashboard Preview](hr-analytics.png)
 
 ---
 
